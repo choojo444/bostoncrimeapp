@@ -1,0 +1,68 @@
+,OFFENSE_CODE_GROUP,N,Gen_Type,NUM
+1,Motor Vehicle Accident Response,31015,Auto,1
+2,Larceny,25102,Theft,2
+3,Medical Assistance,22451,Emergency Response,3
+4,Investigate Person,18018,Emergency Response,3
+5,Other,17086,Emergency Response,3
+6,Simple Assault,14920,Violent,4
+7,Vandalism,14880,Non Violent ,5
+8,Drug Violation,14596,Non Violent ,5
+9,Verbal Disputes,12951,Non Violent ,5
+10,Towed,10764,Auto,1
+11,Investigate Property,10614,Emergency Response,3
+12,Larceny From Motor Vehicle,10285,Theft,2
+13,Property Lost,9350,Emergency Response,3
+14,Warrant Arrests,7606,Emergency Response,3
+15,Aggravated Assault,7267,Violent,4
+16,Fraud,5687,Theft,2
+17,Residential Burglary,5575,Theft,2
+18,Violations,5072,Non Violent ,5
+19,Missing Person Located,4868,Emergency Response,3
+20,Auto Theft,4529,Theft,2
+21,Robbery,4228,Theft,2
+22,Harassment,3949,Non Violent ,5
+23,Missing Person Reported,3738,Emergency Response,3
+24,Property Found,3660,Emergency Response,3
+25,Confidence Games,3080,Emergency Response,3
+26,Police Service Incidents,2555,Emergency Response,3
+27,Disorderly Conduct,2400,Non Violent ,5
+28,Fire Related Reports,1856,Emergency Response,3
+29,License Violation,1658,Non Violent ,5
+30,Firearm Violations,1585,Violent,4
+31,Restraining Order Violations,1581,Non Violent ,5
+32,Counterfeiting,1427,Theft,2
+33,Recovered Stolen Property,1328,Theft,2
+34,Commercial Burglary,1326,Theft,2
+35,Liquor Violation,980,Non Violent ,5
+36,Auto Theft Recovery,977,Theft,2
+37,Landlord/Tenant Disputes,964,Non Violent ,5
+38,Ballistics,936,Violent,4
+39,Search Warrants,934,Emergency Response,3
+40,Assembly or Gathering Violations,912,Non Violent ,5
+41,Property Related Damage,865,Non Violent ,5
+42,Firearm Discovery,672,Non Violent ,5
+43,License Plate Related Incidents,538,Auto,1
+44,Offenses Against Child / Family,525,Violent,4
+45,Operating Under the Influence,475,Auto,1
+46,Other Burglary,448,Theft,2
+47,Evading Fare,389,Non Violent ,5
+48,Embezzlement,295,Theft,2
+49,Service,262,Emergency Response,3
+50,Prisoner Related Incidents,228,Emergency Response,3
+51,Prostitution,195,Non Violent ,5
+52,Homicide,152,Violent,4
+53,Criminal Harassment,131,Violent,4
+54,Arson,91,Violent,4
+55,Harbor Related Incidents,88,Non Violent ,5
+56,HOME INVASION,77,Violent,4
+57,Bomb Hoax,71,Violent,4
+58,Phone Call Complaints,31,Emergency Response,3
+59,Aircraft,30,Emergency Response,3
+60,Explosives,24,Violent,4
+61,Gambling,8,Non Violent ,5
+62,HUMAN TRAFFICKING,7,Violent,4
+63,Manslaughter,7,Violent,4
+64,INVESTIGATE PERSON,4,Emergency Response,3
+65,Biological Threat,2,Violent,4
+66,Burglary - No Property Taken,2,Theft,2
+67,HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE,2,Violent,4
