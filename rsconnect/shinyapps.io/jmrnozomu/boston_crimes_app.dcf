@@ -1,0 +1,12 @@
+name: boston_crimes_app
+title: boston_crimes_app
+username:
+account: jmrnozomu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3126543
+bundleId: 3805683
+url: https://jmrnozomu.shinyapps.io/boston_crimes_app/
+when: 1604196678.74763
+asMultiple: FALSE
+asStatic: FALSE
